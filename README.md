@@ -3,8 +3,8 @@
 </h1>
 
   
-  
-# Techs
+
+# Tecnologias 
 
 
 - [x] React.js
