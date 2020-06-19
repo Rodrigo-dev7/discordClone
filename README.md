@@ -2,6 +2,8 @@
  Clone - Discord
 </h1>
 
+<p align="center">Deployed <a target="_blank"href=https://boring-aryabhata-3c39fd.netlify.app/"> Aqui</a></p>
+
   
 
 # Tecnologias 
